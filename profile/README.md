@@ -8,7 +8,7 @@ Dyonic is a global media and tech company connecting people to their passions. W
 
 But what has guided us along the way?
 
-Our mission is to empower developers and continue supporting open source technologies. [Ryen] (https://ryen.org) is our biggest Open Source project. We love to see developers contribute from all over the world.
+Our mission is to empower developers and continue supporting open source technologies. [Ryen](https://ryen.org) is our biggest Open Source project. We love to see developers contribute from all over the world.
 
 ## Get Started
 
