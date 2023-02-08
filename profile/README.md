@@ -12,17 +12,17 @@ Our mission is to empower developers and continue supporting open source technol
 
 ## Get Started
 
-[Learn about open source at Dyonic](https://dyonic.co/open-source/)
+[Learn about open source at Dyonic](https://dyonic.net/for/opensource)
 
-[Join Dyonic's developer community](https://github.com/dyonc)<br><br>
+[Join Dyonic's developer community](https://dyonic.net/community)
 
 ## All Dyonic GitHub organizations
 
 * [Dyonic](https://github.com/dyonc) – our primary GitHub organization
 * [Ryen](https://github.com/weareryen) – Ryen is a conversational form builder that you can self-host
-* [MoreLoad](https://github.com/MoreLoad) – Your private cloud storage software build with privacy
+* [MoreLoad](https://github.com/MoreLoad) – The next generation ShareX / File upload server
 * [Uperox](https://github.com/uperox) – A Search Engine, but with privacy
 
 ----
 
-For more information visit the official Dyonic [Open Source](https://opensource.dyonic.co) website.
+For more information visit the official Dyonic [Open Source](https://dyonic.net/for/opensource) website.
