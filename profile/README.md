@@ -1,4 +1,4 @@
-![Dyonic Logo](https://github.com/dyonc/.github/blob/main/profile/Dyonic-GitHub-Banner.png "Open source at Dyonic. Everyone is invited. Let's collaborate together")
+![Dyonic Logo](https://github.com/dyonc/.github/blob/main/profile/dyonic-banner.png "Open Source at Dyonic. Everyone is invited. Let's collaborate together")
 
 # Dyonic - Open Source
 
