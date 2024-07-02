@@ -2,7 +2,7 @@
 
 Thank you for your contribution to this Egger & Co software project. In order to
 clarify the intellectual property rights in the project, and to grant licenses
-to the project to others, Egger GmbH. ("Egger & Co") requires that you accept
+to the project to others, Egger, Inc. ("Egger & Co") requires that you accept
 this Contributor License Agreement ("Agreement"). This license is for your
 protection as a Contributor as well as the protection of Egger & Co, its users, and
 its licensees; you may still license your own Contributions under other terms.
